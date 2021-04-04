@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JohnnyPadova
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on my own business alone (and that is, spending time with myself)
-- 📫 How to reach me: Ghiaccio#7328
+yo modafaq, I’m @JohnnyPadova. I’m interested in programming even tho i’m currently learning the basics of python...
+i am minding my own business, alone. (yeah, spending time with myself)
+- 📫 How to reach me? send a friend request on discord: Ghiaccio#7328
 
 <!---
 JohnnyPadova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
